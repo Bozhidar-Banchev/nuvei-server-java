@@ -14,4 +14,4 @@ schedules:
   always: false
 
 extends:
-  template: pipelines/restapi1.0-java-sdk.yaml@DevOpsTemplates
+  template: pipelines/restapi1.0-java-sdk2.0.yaml@DevOpsTemplates
